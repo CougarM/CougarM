@@ -8,7 +8,7 @@ Two years in cyber security at NCC Group (XDR, SIEM, threat intelligence across 
 
 ### What I'm building
 
-**Holocron** - venue operations software for UK nightclubs, bars and late-night venues. Covers staff rota, incident management, licensing compliance and capacity tracking. One paying customer, active pipeline, pre-public launch.
+**Holocron** - the all-in-one platform for running a nightlife venue. Staffing, compliance, incident management and operations in a single system built specifically for the UK night-time economy. One paying customer, active pipeline, pre-public launch.
 
 ---
 
